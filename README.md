@@ -1,6 +1,5 @@
 # drl-master visualization
-<img src="imgs/image1.jpg" width = "200" height = "200" div align=left /> <img src="imgs/image4.gif" width = "200" height = "200" div align=right />
-![](imgs/image1.jpg) ![](imgs/image4.gif)
-![](imgs/image6.jpg) ![](imgs/image3.gif)
-![](imgs/image8.jpg) ![](imgs/image9.gif)
-![](imgs/image10.jpg) ![](imgs/image12.gif)
+<img src="imgs/image1.jpg" width = "400" height = "400" div align=left /> <img src="imgs/image4.gif" width = "400" height = "400" div align=right />
+<img src="imgs/image6.jpg" width = "400" height = "400" div align=left /> <img src="imgs/image3.gif" width = "400" height = "400" div align=right />
+<img src="imgs/image8.jpg" width = "400" height = "400" div align=left /> <img src="imgs/image9.gif" width = "400" height = "400" div align=right />
+<img src="imgs/image10.jpg" width = "400" height = "400" div align=left /> <img src="imgs/image12.gif" width = "400" height = "400" div align=right />
